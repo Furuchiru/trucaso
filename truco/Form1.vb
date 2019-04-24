@@ -6,4 +6,8 @@
 
         'wachin
     End Sub
+
+    Sub algo()
+
+    End Sub
 End Class

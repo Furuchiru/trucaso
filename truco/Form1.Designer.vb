@@ -42,7 +42,7 @@ Partial Class Form1
         Me.Label1.Font = New System.Drawing.Font("Microsoft Sans Serif", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label1.Location = New System.Drawing.Point(385, 87)
         Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(102, 29)
+        Me.Label1.Size = New System.Drawing.Size(114, 31)
         Me.Label1.TabIndex = 1
         Me.Label1.Text = "plz work"
         '
@@ -51,7 +51,7 @@ Partial Class Form1
         Me.Label2.AutoSize = True
         Me.Label2.Location = New System.Drawing.Point(284, 44)
         Me.Label2.Name = "Label2"
-        Me.Label2.Size = New System.Drawing.Size(39, 13)
+        Me.Label2.Size = New System.Drawing.Size(45, 15)
         Me.Label2.TabIndex = 2
         Me.Label2.Text = "Label2"
         '
